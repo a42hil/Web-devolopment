@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>result of class 10</title>
+   <meta content="width=device-width,initial-scale=1" name="viewport" >
+   <style>
+  body{background-color:pink solid black;margin:0px;}  
+td{background-color:pink;border:2px solid black;margin:0px;} 
+  
+   </style>
+ 
+
+</head>
+<body>
+<h3> result of class 10  </h3>
+<table>
+ <thead>
+  <tr>
+
+   <th class="tablh">
+name
+   </th>
+   <th class="tablh">
+Bengali
+   </th>
+   <th class="tablh">
+English
+   </th>
+   <th class="tablh">
+Social sc.
+   </th>
+  <tr>
+  <td>
+Akhil 
+  </td>
+  <td>
+97
+  </td>
+<td>89</td>
+<td>88</td>
+</tr>
+
+<tr>
+  <td>
+Akhil 
+  </td>
+  <td>
+97
+  </td>
+<td>89</td>
+<td>88</td>
+
+
+</body>
+</html>
